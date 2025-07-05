@@ -2,6 +2,13 @@
 
 This is a fork of [John Smilga's job app](https://github.com/john-smilga/react-jobs-app/), modified to work with my custom backend APIs built in [ts-express-jobs-api](https://github.com/AdhamElRouby/ts-express-jobs-api/). The app functions as a job management system, allowing users to log in, create job entries, update existing ones, and delete them.
 
+
+<div align="center">
+
+<img src="./public/demo.gif" alt="App Demo">
+
+</div>
+
 ## Run Locally
 
 Clone the project
